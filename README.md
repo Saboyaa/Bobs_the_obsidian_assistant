@@ -1,2 +1,3 @@
-# Bobs_the_obsidian_assistant
-Bobs is my local AI assistant that automatically links new obsidian notes to old ones
+🧠 Bobs – Your Obsidian-Powered AI Assistant
+
+Bobs is a personal assistant built with Ollama that learns from your Obsidian notes. It fine-tunes itself using your vault’s content and helps you stay organized by suggesting related notes whenever you create a new one — explaining why and how they connect.
