@@ -1,0 +1,4 @@
+chunks[3]{id,type,level,content,parent_id,path}:
+1,heading,1,Bobs – Your Obsidian-Powered AI Assistant,None,['Bobs – Your Obsidian-Powered AI Assistant']
+2,heading,2,teste,1,['Bobs – Your Obsidian-Powered AI Assistant', 'teste']
+3,paragraph,,Bobs is a personal assistant built with Ollama that learns from your Obsidian notes. It fine-tunes itself using your vault’s content and helps you stay organized by suggesting related notes whenever you create a new one — explaining why and how they connect.,2,['Bobs – Your Obsidian-Powered AI Assistant', 'teste']

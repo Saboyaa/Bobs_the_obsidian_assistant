@@ -1,0 +1,551 @@
+{
+    "file_entities": {
+        "Linux Logs.md": [
+            "#authentication logs",
+            "#kernel logs",
+            "#application logs",
+            "edr",
+            "/var/log/syslog",
+            "/var/log/auth.log",
+            "apache2",
+            "databases",
+            "threat intelligence",
+            "linux security",
+            "system logs",
+            "linux",
+            "#security logs",
+            "/var/log/kern.log"
+        ],
+        "ELK Stack.md": [
+            "siem",
+            "kql",
+            "logstash",
+            "restful apis",
+            "elasticsearch",
+            "syslog",
+            "json",
+            "filter plugins",
+            "kibana",
+            "tcp",
+            "output plugins"
+        ],
+        "MITRE ATT&CK.md": [
+            "ttps",
+            "penetration testing",
+            "mitre att&ck",
+            "gap analysis",
+            "threat intelligence",
+            "red teaming",
+            "soar",
+            "socs",
+            "security evaluation"
+        ],
+        "Curl.md": [
+            "https",
+            "mozilla",
+            "ssl",
+            "http",
+            "user-agent"
+        ],
+        "Elastic.md": [
+            "docker-compose",
+            "docker",
+            "cluster",
+            "elasticsearch",
+            ".env"
+        ],
+        "whois.md": [],
+        "Linux Containers (LXC).md": [
+            "virtualization",
+            "lxc",
+            "namespaces",
+            "cgroups",
+            "containers",
+            "linux"
+        ],
+        "SOC.md": [
+            "escalation",
+            "malware",
+            "security information and event management",
+            "network protocols",
+            "edr",
+            "siem",
+            "consultation with it operations",
+            "incident response planning",
+            "linux logs",
+            "response execution",
+            "elk stack",
+            "ids/ips"
+        ],
+        "LangGraph.md": [
+            "messages",
+            "nodes",
+            "toolnode",
+            "edges",
+            "conditional edges",
+            "state",
+            "stategraph",
+            "runnable"
+        ],
+        "Docker.md": [
+            "layered filesystem",
+            "docker",
+            "flexibility",
+            "filesystem",
+            "containers",
+            "resource isolation",
+            "portability"
+        ],
+        "gobuster.md": [
+            "brute-forcing",
+            "gobuster",
+            "virtual host discovery",
+            "web server"
+        ],
+        "Linux Network Configuration.md": [
+            "xwd",
+            "tcp wrappers",
+            "rdp",
+            "lsof",
+            "remote desktop protocol",
+            "ss",
+            "mac",
+            "syslog",
+            "elk stack",
+            "ip",
+            "ifconfig",
+            "linux",
+            "netstat",
+            "network",
+            "apparmor",
+            "nac",
+            "tcpdump",
+            "virtual network computing",
+            "xgrabsc",
+            "security-enhanced linux",
+            "lsm",
+            "rbac",
+            "x11",
+            "dns",
+            "vnc",
+            "selinux",
+            "dac",
+            "nmap",
+            "network protocols",
+            "wireshark",
+            "ping",
+            "rsyslog",
+            "traceroute",
+            "linux security module"
+        ],
+        "OSI.md": [
+            "apis",
+            "application programming interfaces",
+            "physical layer",
+            "internet protocol",
+            "tcp",
+            "http",
+            "data link layer",
+            "smtp",
+            "open systems interconnection",
+            "dns",
+            "domain name system",
+            "media access control",
+            "ftp",
+            "udp"
+        ],
+        "n8n.md": [
+            "esp32",
+            "raspberry",
+            "cloudflare"
+        ],
+        "Linux.md": [],
+        "SIEM.md": [
+            "security information and event management",
+            "siem",
+            "applications",
+            "priority",
+            "aggregation",
+            "windows",
+            "servers",
+            "vpn",
+            "linux",
+            "standard operating procedures",
+            "endpoints",
+            "software",
+            "network hardware"
+        ],
+        "MAC Addresses.md": [
+            "network protocols",
+            "address resolution protocol (arp)",
+            "media access control (mac) address",
+            "data link layer (layer 2)",
+            "osi"
+        ],
+        "HTTPS.md": [],
+        "Network.md": [
+            "protocols",
+            "tcp",
+            "speed",
+            "geographical scope",
+            "ownership",
+            "open systems interconnection (osi) model",
+            "port",
+            "data sharing",
+            "network",
+            "media",
+            "transport layer",
+            "media access control (mac) address",
+            "udp",
+            "links",
+            "internet architecture",
+            "mac addresses",
+            "wide area network (wan)",
+            "nodes",
+            "network protocols",
+            "osi model",
+            "local area network (lan)"
+        ],
+        "Bash Script.md": [
+            "$0",
+            "-",
+            "$n",
+            "<",
+            "/",
+            "$@",
+            "-z",
+            "=",
+            "-n",
+            "$1",
+            "shebang",
+            "!=",
+            "-e",
+            "logical operators",
+            "-r",
+            "+",
+            "variable++",
+            "$?",
+            "-g",
+            "-x",
+            "-f",
+            "flow",
+            "==",
+            ">",
+            "file operators",
+            "-w",
+            "!",
+            "conditional execution",
+            "operators",
+            "-o",
+            "*",
+            "$#",
+            "$$",
+            "&&",
+            "variables and array",
+            "-l",
+            "variable--",
+            "arithmetic operators",
+            "-s",
+            "${#variable}",
+            "scripting x programming",
+            "-eq",
+            "%",
+            "functions",
+            "-d"
+        ],
+        "Vhost.md": [
+            "ffuf",
+            "apache",
+            "virtual hosting",
+            "gobuster",
+            "vhost fuzzing",
+            "iis",
+            "nginx"
+        ],
+        "Python.md": [
+            "dictionary",
+            "optional",
+            "typed dictionary",
+            "lambda function",
+            "union",
+            "any"
+        ],
+        "Ransomware.md": [],
+        "SecList.md": [],
+        "Media Wiki.md": [
+            "mysql",
+            "wget",
+            "media wiki",
+            "sudo",
+            "tar"
+        ],
+        "Firewall.md": [
+            "network protocols",
+            "kernel",
+            "netfilter",
+            "iptables"
+        ],
+        "Lateral Movement.md": [],
+        "DevTools.md": [],
+        "HTTP.md": [
+            "entity headers",
+            "security headers",
+            "response headers",
+            "https",
+            "general headers",
+            "http response",
+            "request headers",
+            "http request",
+            "http",
+            "headers"
+        ],
+        "nmap.md": [
+            "a",
+            "mapping",
+            "port1",
+            "sv",
+            "pn",
+            "portn"
+        ],
+        "Find.md": [],
+        "Linux Security.md": [],
+        "Network Protocols.md": [
+            "static nat",
+            "dhcp",
+            "dora process",
+            "discover",
+            "dynamic nat",
+            "acknowledge",
+            "protocols",
+            "dynamic host configuration protocol (dhcp)",
+            "ip",
+            "offer",
+            "request",
+            "smtp",
+            "http",
+            "port address translation (pat)",
+            "tcp",
+            "ftp",
+            "udp",
+            "network address translation (nat)"
+        ],
+        "Cloudflare.md": [],
+        "dnseum.md": [
+            "dns",
+            "dnsenum"
+        ],
+        "Linux File System Management.md": [
+            "usb",
+            "lxc",
+            "ascii",
+            "linux",
+            "ext3",
+            "ram",
+            "docker",
+            "apparmor",
+            "windows",
+            "arch",
+            "ntfs",
+            "dual-boot",
+            "swapon",
+            "selinux",
+            "compose",
+            "xfs",
+            "mkswap",
+            "ext2",
+            "binary",
+            "ext4",
+            "btrfs"
+        ],
+        "Information Gathering.md": [
+            "ffuf",
+            "nikto",
+            "dig",
+            "vhost",
+            "gobuster",
+            "web archives",
+            "dnseum",
+            "google dorks",
+            "curl",
+            "whois"
+        ],
+        "Scanning Tools.md": [
+            "arp",
+            "nmap",
+            "netdiscover",
+            "netcat",
+            "icmp",
+            "traceroute",
+            "pingsweep"
+        ],
+        "Internet Architecture.md": [
+            "software-defined networking (sdn)",
+            "cloud",
+            "peer-to-peer",
+            "bittorrent",
+            "client-server",
+            "hybrid",
+            "networks"
+        ],
+        "dig.md": [
+            "ip addresses",
+            "domain name system (dns)",
+            "dig",
+            "domain names"
+        ]
+    },
+    "graph": {
+        "Linux Logs.md": [
+            "SIEM.md",
+            "Linux File System Management.md",
+            "Linux Containers (LXC).md",
+            "MITRE ATT&CK.md",
+            "SOC.md",
+            "Linux Network Configuration.md"
+        ],
+        "MITRE ATT&CK.md": [
+            "Linux Logs.md"
+        ],
+        "Linux Containers (LXC).md": [
+            "SIEM.md",
+            "Linux File System Management.md",
+            "Docker.md",
+            "Linux Network Configuration.md",
+            "Linux Logs.md"
+        ],
+        "SOC.md": [
+            "SIEM.md",
+            "ELK Stack.md",
+            "MAC Addresses.md",
+            "Linux Network Configuration.md",
+            "Network.md",
+            "Firewall.md",
+            "Linux Logs.md"
+        ],
+        "Linux Network Configuration.md": [
+            "SIEM.md",
+            "Linux File System Management.md",
+            "ELK Stack.md",
+            "Scanning Tools.md",
+            "Linux Containers (LXC).md",
+            "MAC Addresses.md",
+            "Network Protocols.md",
+            "SOC.md",
+            "Network.md",
+            "Firewall.md",
+            "dnseum.md",
+            "OSI.md",
+            "Linux Logs.md"
+        ],
+        "SIEM.md": [
+            "Linux File System Management.md",
+            "ELK Stack.md",
+            "Linux Containers (LXC).md",
+            "SOC.md",
+            "Linux Network Configuration.md",
+            "Linux Logs.md"
+        ],
+        "Linux File System Management.md": [
+            "SIEM.md",
+            "Docker.md",
+            "Linux Containers (LXC).md",
+            "Elastic.md",
+            "Linux Network Configuration.md",
+            "Linux Logs.md"
+        ],
+        "ELK Stack.md": [
+            "SIEM.md",
+            "Elastic.md",
+            "Network Protocols.md",
+            "SOC.md",
+            "Linux Network Configuration.md",
+            "Network.md",
+            "OSI.md"
+        ],
+        "Elastic.md": [
+            "Docker.md",
+            "Linux File System Management.md",
+            "ELK Stack.md"
+        ],
+        "OSI.md": [
+            "ELK Stack.md",
+            "dnseum.md",
+            "Network Protocols.md",
+            "HTTP.md",
+            "Linux Network Configuration.md",
+            "Network.md",
+            "Curl.md"
+        ],
+        "Network.md": [
+            "ELK Stack.md",
+            "MAC Addresses.md",
+            "LangGraph.md",
+            "SOC.md",
+            "Network Protocols.md",
+            "Linux Network Configuration.md",
+            "Firewall.md",
+            "OSI.md"
+        ],
+        "Network Protocols.md": [
+            "ELK Stack.md",
+            "HTTP.md",
+            "Linux Network Configuration.md",
+            "Network.md",
+            "Curl.md",
+            "OSI.md"
+        ],
+        "Curl.md": [
+            "OSI.md",
+            "HTTP.md",
+            "Network Protocols.md"
+        ],
+        "HTTP.md": [
+            "Curl.md",
+            "OSI.md",
+            "Network Protocols.md"
+        ],
+        "Docker.md": [
+            "Linux Containers (LXC).md",
+            "Elastic.md",
+            "Linux File System Management.md"
+        ],
+        "MAC Addresses.md": [
+            "SOC.md",
+            "Linux Network Configuration.md",
+            "Network.md",
+            "Firewall.md"
+        ],
+        "Firewall.md": [
+            "SOC.md",
+            "Network.md",
+            "Linux Network Configuration.md",
+            "MAC Addresses.md"
+        ],
+        "LangGraph.md": [
+            "Network.md"
+        ],
+        "gobuster.md": [
+            "Vhost.md",
+            "Information Gathering.md"
+        ],
+        "Vhost.md": [
+            "Information Gathering.md",
+            "gobuster.md"
+        ],
+        "Information Gathering.md": [
+            "Vhost.md",
+            "gobuster.md",
+            "dig.md"
+        ],
+        "dnseum.md": [
+            "OSI.md",
+            "Linux Network Configuration.md"
+        ],
+        "Scanning Tools.md": [
+            "Linux Network Configuration.md"
+        ],
+        "dig.md": [
+            "Information Gathering.md"
+        ]
+    }
+}
